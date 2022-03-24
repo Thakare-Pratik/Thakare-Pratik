@@ -1,7 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
+[![Linkedin Badge](https://img.shields.io/badge/-Pratik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/pratik-thakare-3baab5164/)](https://www.linkedin.com/in/pratik-thakare-3baab5164/)
 
 I'm
 Full Stack Solution Architect
