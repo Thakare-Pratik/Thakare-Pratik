@@ -16,9 +16,6 @@ I have started Learning HTML CSS and JavaScript now to develop my UI skills, als
   </a>
 </div>
 
-Languages and Tools: 
-
-
 ![](https://activity-graph.herokuapp.com/graph?username=Thakare-Pratik&theme=react-dark&area=true)
 <!--
 **Thakare-Pratik/Thakare-Pratik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
